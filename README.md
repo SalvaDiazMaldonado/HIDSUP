@@ -9,6 +9,6 @@ Repositorio con paquete de hidrología superficial, conteniendo un archivo compr
   4. Curvas: i-d-T o i-d-T
   5. Hidrograam unitario instantánea
   6. Terminar
-* Tránsitos de avenidas usando HIDSO y HEC-HMS
+* Tránsitos de avenidas usando HIDSUP y HEC-HMS
   Ejemplos de tránsitos en vasos y en cauces del Manual de HIDSUP, aplicando y comparando resultados
 de HIDSUP y HEC-HMS.
